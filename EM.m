@@ -266,37 +266,3 @@ toc;
         
 legend('FG_1','FG_2','FG_3','FG_4','FG_5','Location','northeast');
 xlabel('Dimension');ylabel('Probability of error');        
-      
-
-        
-        
-     
-  
-
-        
-
-    
-        
-    
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
