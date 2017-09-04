@@ -11,7 +11,7 @@ cheetah=imread('cheetah.bmp');
 Py_c=m2/(m1+m2);
 Py_g=m1/(m1+m2);
 
-%% Do DCT and ZIG-ZAG to the test iamge
+%% Do DCT and ZIG-ZAG to the test image
 cheetah=im2double(cheetah);
 [m,n]=size(cheetah);
 A_zigzag=ones(m*n,64);
