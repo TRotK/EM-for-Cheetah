@@ -1,5 +1,5 @@
 # EM-for-Cheetah
-Code for implementing EM (Expectation Maximization) Algorithm from scratch on a cheetah segmentation problem
+Code for implementing EM (Expectation-Maximization) Algorithm from scratch on a cheetah segmentation problem
 
 [//]: # (Image References)
 
